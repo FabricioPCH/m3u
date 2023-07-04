@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" audio-track="spa" group-title="CINE",TNT
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" audio-track="spa" group-title="CINE",TNT
 http://tv.nousiptv.com:8080/043686/gabrielc/4010
