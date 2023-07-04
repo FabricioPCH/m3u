@@ -53,6 +53,9 @@ http://tv.nousiptv.com:8080/043686/gabrielc/7532
 http://tv.nousiptv.com:8080/043686/gabrielc/7534
 #EXTINF:0 tvg-logo="https://i.imgur.com/uSSnm6D.png" audio-track="spa" group-title="LOCAL",TC TELEVISION HD │ EC
 http://tv.nousiptv.com:8080/043686/gabrielc/7533
+#EXTINF:0 tvg-logo="https://i.imgur.com/k6h5Cz2.png" audio-track="spa" group-title="LOCAL",TVC FHD │ EC
+http://tv.nousiptv.com:8080/043686/gabrielc/53460
+
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1920px-Tooncast_logo.svg.png" audio-track="spa" group-title="INFANTIL",TOONCAST FHD
