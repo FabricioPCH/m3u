@@ -24,8 +24,17 @@ http://tv.nousiptv.com:8080/043686/gabrielc/1155889
 http://tv.nousiptv.com:8080/043686/gabrielc/43639
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" audio-track="spa" group-title="DEPORTES",ESPN 4 SUR
 http://tv.nousiptv.com:8080/043686/gabrielc/18580
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" audio-track="spa" group-title="DEPORTES",ESPN EXTRA SUR HD
+http://tv.nousiptv.com:8080/043686/gabrielc/43638
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" audio-track="spa" group-title="DEPORTES",DIRECTV SPORTS SD
+http://tv.nousiptv.com:8080/043686/gabrielc/33512
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" audio-track="spa" group-title="CINE",HBO
+http://tv.nousiptv.com:8080/043686/gabrielc/1155792
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" audio-track="spa" group-title="CINE",TNT
 http://tv.nousiptv.com:8080/043686/gabrielc/4010
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" audio-track="spa" group-title="SERIES",TNT SERIES
+http://tv.nousiptv.com:8080/043686/gabrielc/1156004
 #EXTINF:0 tvg-logo="https://i.pinimg.com/564x/85/28/a7/8528a75f13fbf7c4482ac68007abfd8e.jpg" audio-track="spa" group-title="CINE",CINEMA DISNEY FAMILY
 http://tv.nousiptv.com:8080/043686/gabrielc/1161847
