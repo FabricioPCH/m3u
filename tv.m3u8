@@ -51,6 +51,10 @@ http://tv.nousiptv.com:8080/043686/gabrielc/1155808
 http://tv.nousiptv.com:8080/043686/gabrielc/4051
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1280px-Teleamazonas_Logo.png" audio-track="spa" group-title="LOCAL",TELEAMAZONAS FHD
 http://tv.nousiptv.com:8080/043686/gabrielc/7532
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" audio-track="spa" group-title="INFANTIL",DISNEY CHANNEL
+http://tv.nousiptv.com:8080/043686/gabrielc/4004
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" audio-track="spa" group-title="INFANTIL",Cartoon Network Mexico
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 
 
