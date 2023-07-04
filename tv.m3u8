@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" audio-track="spa" group-title="DOCUMENTALES",DISCOVERY ID
+http://tv.nousiptv.com:8080/043686/gabrielc/4123
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" audio-track="spa" group-title="CINE",TNT
 http://tv.nousiptv.com:8080/043686/gabrielc/4010
 #EXTINF:0 tvg-logo="https://i.pinimg.com/564x/85/28/a7/8528a75f13fbf7c4482ac68007abfd8e.jpg" audio-track="spa" group-title="CINE",CINEMA DISNEY FAMILY
