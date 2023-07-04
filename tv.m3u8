@@ -47,5 +47,8 @@ http://tv.nousiptv.com:8080/043686/gabrielc/4099
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/dEkwz4n41BeYhGKt01PQJ6KAtBkzh2Swu7qqHzZ6VJoRDWAe8tP0roRw0ctZwNlRfCPEExvcKDI=s176-c-k-c0x00ffffff-no-rj" audio-track="spa" group-title="CINE",WARNER
 http://tv.nousiptv.com:8080/043686/gabrielc/1155808
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1920px-Tooncast_logo.svg.png" audio-track="spa" group-title="INFANTIL",TOONCAST FHD
+http://tv.nousiptv.com:8080/043686/gabrielc/4051
+
 
 
