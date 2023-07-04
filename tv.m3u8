@@ -16,6 +16,15 @@ http://tv.nousiptv.com:8080/043686/gabrielc/1155802
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPBiP2gmedw6-U0o-rAl7YzhjnJ3rLNcuxDOZLc=s176-c-k-c0x00ffffff-no-rj" audio-track="spa" group-title="NOTICIEROS",DW EN ESPAÑOL
 http://tv.nousiptv.com:8080/043686/gabrielc/1155821
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" audio-track="spa" group-title="DEPORTES",ESPN 1 SUR SD
+http://tv.nousiptv.com:8080/043686/gabrielc/33469
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" audio-track="spa" group-title="DEPORTES",ESPN 2 SUR SD
+http://tv.nousiptv.com:8080/043686/gabrielc/1155889
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" audio-track="spa" group-title="DEPORTES",ESPN 3 SUR SD
+http://tv.nousiptv.com:8080/043686/gabrielc/43639
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" audio-track="spa" group-title="DEPORTES",ESPN 4 SUR
+http://tv.nousiptv.com:8080/043686/gabrielc/18580
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" audio-track="spa" group-title="CINE",TNT
 http://tv.nousiptv.com:8080/043686/gabrielc/4010
 #EXTINF:0 tvg-logo="https://i.pinimg.com/564x/85/28/a7/8528a75f13fbf7c4482ac68007abfd8e.jpg" audio-track="spa" group-title="CINE",CINEMA DISNEY FAMILY
