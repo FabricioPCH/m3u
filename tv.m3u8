@@ -38,3 +38,9 @@ http://tv.nousiptv.com:8080/043686/gabrielc/4010
 http://tv.nousiptv.com:8080/043686/gabrielc/1156004
 #EXTINF:0 tvg-logo="https://i.pinimg.com/564x/85/28/a7/8528a75f13fbf7c4482ac68007abfd8e.jpg" audio-track="spa" group-title="CINE",CINEMA DISNEY FAMILY
 http://tv.nousiptv.com:8080/043686/gabrielc/1161847
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" audio-track="spa" group-title="CINE",STAR CHANNEL FHD
+http://tv.nousiptv.com:8080/043686/gabrielc/4022
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" audio-track="spa" group-title="CINE",SONY
+http://tv.nousiptv.com:8080/043686/gabrielc/1155800
+
+
