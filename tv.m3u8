@@ -42,5 +42,8 @@ http://tv.nousiptv.com:8080/043686/gabrielc/1161847
 http://tv.nousiptv.com:8080/043686/gabrielc/4022
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" audio-track="spa" group-title="CINE",SONY
 http://tv.nousiptv.com:8080/043686/gabrielc/1155800
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/91vLwuyRj1rfFNXxvYvK1RBmGlLnpZvhXnKDMiUYogNxu8l88mu6RsVBa-nR0upGMrLZkAIOZSs=s176-c-k-c0x00ffffff-no-rj" audio-track="spa" group-title="CINE",SPACE FHD
+http://tv.nousiptv.com:8080/043686/gabrielc/4099
+
 
 
