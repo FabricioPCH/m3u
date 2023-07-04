@@ -49,6 +49,9 @@ http://tv.nousiptv.com:8080/043686/gabrielc/1155808
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1920px-Tooncast_logo.svg.png" audio-track="spa" group-title="INFANTIL",TOONCAST FHD
 http://tv.nousiptv.com:8080/043686/gabrielc/4051
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1280px-Teleamazonas_Logo.png" audio-track="spa" group-title="LOCAL",TELEAMAZONAS FHD
+http://tv.nousiptv.com:8080/043686/gabrielc/7532
+
 
 
 
