@@ -11,6 +11,11 @@ http://tv.nousiptv.com:8080/043686/gabrielc/4093
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1024px-History2_logo_%282022%29.svg.png" audio-track="spa" group-title="DOCUMENTALES",H2
 http://tv.nousiptv.com:8080/043686/gabrielc/4005
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" audio-track="spa" group-title="NOTICIEROS",RT ESPAÑOL
+http://tv.nousiptv.com:8080/043686/gabrielc/1155802
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPBiP2gmedw6-U0o-rAl7YzhjnJ3rLNcuxDOZLc=s176-c-k-c0x00ffffff-no-rj" audio-track="spa" group-title="NOTICIEROS",DW EN ESPAÑOL
+http://tv.nousiptv.com:8080/043686/gabrielc/1155821
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" audio-track="spa" group-title="CINE",TNT
 http://tv.nousiptv.com:8080/043686/gabrielc/4010
 #EXTINF:0 tvg-logo="https://i.pinimg.com/564x/85/28/a7/8528a75f13fbf7c4482ac68007abfd8e.jpg" audio-track="spa" group-title="CINE",CINEMA DISNEY FAMILY
